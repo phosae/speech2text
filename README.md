@@ -1,4 +1,8 @@
 # youtube
+
+> prebuild container image
+>> ghcr.io/phosae/mediaenv
+
 YouTube video processing scripts
 
 脚本 1: CN_mp3_audio2text.py
